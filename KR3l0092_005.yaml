@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR3l0092/chant/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 穆天子傳卷之五古文寶處曰天子四日休于濩澤於是射鳥獵獸丁丑天子雨乃至祭父自圃鄭來謁留昆歸玉百枚陖翟致賂良馬百駟歸畢之寶以詰其成陖子𠷎胡東牡見許男于洧上祭父以天子命辭曰去茲羔用玉帛見許男不敢辭還取束帛加璧毛公舉幣玉是日也天子飲許男于洧上天子曰朕非許邦而恤百姓也咎氏宴飲毋有禮許男不敢辭升坐于出尊乃用宴樂天子賜許男駿馬十六許男降再拜空首乃升平坐及暮天子遣許男歸癸亥天子乘鳥舟龍舟浮于大沼夏庚午天子飲于洧上乃遣祭父如圃鄭用諸侯辛未天子北還釣于漸澤食魚于桑野丁丑天子里圃田之路東至于房西至于丘南至于桑野北盡經林煮之藪南北五十十虞東虞曰兔臺西虞曰櫟丘南虞曰富丘北虞曰相其御虞曰來虞所辰天子次于軍丘以畋于藪甲寅天子作居范宮以觀桑者乃飲于桑中天子命桑虞出桑者用禁暴民仲夏甲申天子所庚寅天子西遊乃宿于祭壬辰祭公飲天子酒乃歌𠕫天之詩天子命歌南山有𢅇乃紹宴樂丁酉天子作臺以為西居壬寅天子東至于雀梁甲辰浮于滎水乃奏廣樂季夏庚休于范宮仲秋丁巳天子射鹿于林中乃飲于孟氏爰舞白鶴二八還宿于雀梁季秋辛巳天子司戎于來虞人次御孟冬鳥至王𦣞弋仲冬丁酉天子射獸休于深𦼉得麋麇豕鹿四百有二十得二虎九狼乃祭于先王命庖人熟之戊戌天子西遊射于中方落草木鮮命虞人掠林除藪以為百姓材是日也天子北入于邴與井公博三日而決辛丑塞至于臺乃大暑除天子居于臺以聽天下之遠方之數而衆從之是以選扐乃載之神人之能數也乃左右望之天子樂之命為而時焉其名曰公去乘人猶有虎在乎葭中天子將至七萃之士曰高奔戎請生捕虎必全之乃生捕虎而獻之天子天子命為柙而畜之東虞是為虎牢天子賜奔戎畋馬十駟歸之太牢奔戎再拜䭫首丙辰天子北遊于林中乃大受命而歸仲秋甲戌天子東遊次于雀梁蠹書于羽陵季秋乃宿于房畢人告戎曰陖翟來侵天子使孟悆如畢討戎霍侯舊告薨天子臨于軍丘狩于藪季冬甲戌天子東遊飲于留祈射于麗虎讀書于黎丘獻酒于天子乃奏廣樂天子遺其靈鼓乃化為黃蛇是日天子鼓道其下而鳴乃樹之桐以為鼓則神且鳴則利於戎以為琴則利于黃澤天子東遊于黃澤宿于曲洛廢使宮樂謠曰黃之池其馬沙皇人威儀黃之澤其馬玉皇人壽穀丙辰天子南遊于黃室之丘以觀夏后啓之所居乃于啓室天子筮獵蘋澤其卦遇訟逄公占之曰訟之繇藪澤蒼蒼其中宜其正公戎事則從祭祀則喜畋獵則獲飲逄公酒賜之駿馬十六絺紵三十篋逄公再拜稽首賜筮史狐有陰雨夢神有事是謂重陰至于黃竹天子乃休日中大寒北風雨雪有凍死人天子作黃竹詩三章以哀民曰我徂黃竹負閟寒帝收九行嗟我公侯百辟冢卿皇我萬民旦夕勿忘我徂黃竹負閟寒帝收九行嗟我公侯百辟冢卿皇我萬民旦夕勿窮有皎者鷺翩翩其飛嗟我公侯勿則遷居樂甚寡不如遷土禮樂其民天子曰余一人則淫不皇萬民登乃宿于黃竹天子夢羿射于塗山祭公占之疏之乃宿于曲山壬申天子西升于曲山天子西征升于九阿南宿于丹黃戊寅天子西升于黎丘之陽過于靈井公博乃駕鹿以遊于山上為之石主而填軨乃次于浢水之陽吉日丁亥天子入于南鄭
+  hash: sha256:c1e3569461bb8ce2e7782beb45f87050126497b724dd073d1027a6618c70a520
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3l0092_CHANT_005-1a.1-h}
+  - {type: substitution, offset: 83, original: 玆, replacement: 茲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3153}}
+  - {type: substitution, offset: 557, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
+  - {type: substitution, offset: 858, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
+  - {type: substitution, offset: 864, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
+  - {type: substitution, offset: 870, original: 苹, replacement: 蘋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0469}}
+  - {type: substitution, offset: 901, original: 憙, replacement: 喜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3648}}
+  - {type: substitution, offset: 1085, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3186}}
+  - {type: substitution, offset: 1144, original: 窴, replacement: 填, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3349}}
+metadata:
+  title: 穆天子傳
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3l0092.xml
+hash: sha256:8e192d4fafbf833a0759060ab12176051aa58b4745f169f656172084414ed5f7
