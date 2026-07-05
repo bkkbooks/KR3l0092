@@ -22,9 +22,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3l0092_001.yaml, hash: 'sha256:0bcc11e56ffae5343afe3e34f1d2ef57968c6dbbef042ae29a879a621be6d796'}
+  - {seq: 1, filename: KR3l0092_001.yaml, hash: 'sha256:ce23c9ab28b70c5ec1a37f7ba4222512a50bae20a232ffbaf778f47f1d40606a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0092_001.markers.yaml, hash: 'sha256:eb936230d019e7e6b34c9b12574c3917c814a8aa26cedbf704adca401e6a662f'}
+  - {seq: 1, role: markers, filename: assets/KR3l0092_001.markers.yaml, hash: 'sha256:b9982edd1828e27bda8f0ad4ec440ff10c0fb8707b7f45eebc71e275d6dea260'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +36,4 @@ table_of_contents:
   label: 卷之一
   type: section
   level: 1
-hash: sha256:08beeb4b0d3665d33f730a1c832872c65cf73b85bfcf684ce35001f1538a7542
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3033e1d00c3a4742e93801cf7beb6c7240133608afa65f196c7ab7ee998f3863
