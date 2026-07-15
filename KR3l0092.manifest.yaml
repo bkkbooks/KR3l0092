@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3l0092/v1
 canonical_location: https://kanripo.org/bkk/KR3l0092/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 穆天子傳六卷
   identifiers:
@@ -22,9 +22,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3l0092_001.yaml, hash: 'sha256:ce23c9ab28b70c5ec1a37f7ba4222512a50bae20a232ffbaf778f47f1d40606a'}
+  - {seq: 1, filename: KR3l0092_001.yaml, hash: 'sha256:d429822a9be0d52882b90c70417cfb7f3eb4216b971c051670289f4d9c5ee84d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0092_001.markers.yaml, hash: 'sha256:b9982edd1828e27bda8f0ad4ec440ff10c0fb8707b7f45eebc71e275d6dea260'}
+  - {seq: 1, role: markers, filename: assets/KR3l0092_001.markers.yaml, hash: 'sha256:db9462d6d60e4e9868ef3459cd0073f44318a7b080cc557a59f0cd50d004f585'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,4 +36,7 @@ table_of_contents:
   label: 卷之一
   type: section
   level: 1
-hash: sha256:3033e1d00c3a4742e93801cf7beb6c7240133608afa65f196c7ab7ee998f3863
+hash: sha256:2d3970479418b9ab76fca775636741be78583d7c2bee1c81c3590559c0438ac2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
